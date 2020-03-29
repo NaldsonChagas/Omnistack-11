@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import React from 'react';
-import Logon from "./pages/Login";
+import Logon from "./pages/Logon";
 import Register from "./pages/Register";
 
 export default function Routes() {
